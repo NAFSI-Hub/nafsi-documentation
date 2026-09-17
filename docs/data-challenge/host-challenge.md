@@ -1,10 +1,10 @@
 # Hosting a Data Challenge on Wildfire Commons
 
-This page offers guidelines for scientists, educators, and policymakers interested in hosting data challenges through Wildfire Commons. 
+This page offers guidelines for scientists, educators, and policymakers interested in hosting data challenges through the NAFSI Hub. 
 
 ## Preparing Your Challenge
 
-Before creating your challenge on Wildfire Commons, ensure you have the following information and steps completed:
+Before creating your challenge, ensure you have the following information and steps completed:
 
 **Obtain Educator Credentials**
 
@@ -16,7 +16,7 @@ The data for your challenge must be available through the [Community Catalog](..
 
 **Prepare Your Workspaces**
 
-Workpsaces are hands-on resources for participants working on Wildfire Commons. Before publishing your challenge, ensure all relevant workspaces are included. These workspaces can include:
+Workpsaces are hands-on resources for participants working on the NAFSI Hub. Before publishing your challenge, ensure all relevant workspaces are included. These workspaces can include:
 
 - A supporting workspace to train participants on interacting with datasets or models.
 - A base solution for the challenge.
@@ -81,7 +81,7 @@ Within a Data Challenge, you can assign two roles:
 
 To add these roles to your challenge:
 
-1. Make sure your intended users are [registered](../getting-started/registration.md) in Wildfire Commons.
+1. Make sure your intended users are [registered](../getting-started/registration.md) in the NAFSI Hub.
 2. From the challenge's *preview* view (not edit mode), go to the *Teams* tab.
 3. Click *Add members* under the group (Admins or Evaluators) to which you want to add users.
 4. Enter the email addresses of the users you want to add.

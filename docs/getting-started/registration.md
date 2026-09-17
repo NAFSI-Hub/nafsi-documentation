@@ -1,27 +1,25 @@
-# Sign In to the Wildfire Commons and Create an Expert Network Profile
+# Sign In to the NAFSI Hub
 
-To get access to the Wildfire Commons, you must register first.
+The NAFSI Hub uses [CI Logon](https://www.cilogon.org/) as its primary authentication method, a platform funded by the NSF to manage Identity and Access for national cyberinfrastructure (CI) resources.
 
-![type:video](https://www.youtube-nocookie.com/embed/JUoY3f_tgfY)
+**Please note**: access to the NAFSI Hub computing services is limited to users with institutional or university email accounts. **Do not register using commercial emails (e.g., Gmail, Outlook)**.
 
-1 - Go to the [Wildfire Commons](https://www.wildfirecommons.org/)
+To log in and automatically register on NAFSI:
 
-2 - On the top right of your screen, click on Log In/Register. 
+1- Go to the NAFSI Hub [site](https://nafsihub.org/). 
 
-3 -  Click on the CI Logon logo.
+2- On the top right of your screen, click on Log In/Register. 
 
-<img src="../images/select-login-cilogon.png" style="border: 2px solid black;">
+3- Click on the CI Logon logo. You will be prompted to the CI Logon site.
 
-4 - Select your institution and click on Log On. You will be prompted to your institution's log in system. Use your institutional credentials.
+<img src="../images/ci-logon.png" style="border: 2px solid black;">
+
+4- Select your institution and click Log On. Check the *Remember this selection* box so that you won't have to repeat this step in the future. You will then be directed to your institution's login system. 
 
 <img src="../images/select-institution.png" style="border: 2px solid black;">
 
-Alternatively, if your institution is not part of CI Logon, you can select ORCID
+If you do not see your institution, you can create an [ORCID](https://orcid.org/). **Your email address must be visible to trusted partners**. For more information, email `support@nationaldataplatform.org`.
 
-<img src="../images/select-login-orcid.png" style="border: 2px solid black;">
+5- Enter your institutional credentials (username and password). After logging in, you will receive an email to verify your account. Make sure to review your inbox and verify your account.
 
-Sign in using your ORCID. If you don’t have one, [you can create one here](https://info.orcid.org/researchers/).
-
-<img src="../images/orcid.png" style="border: 2px solid black;">
-
-As a final alternative, you may register through CILogon using a commercial account (such as Google). Please be aware that this option restricts access to resources, including national computing.
+6- After verifying your email address, refresh the page to access your Dashboard. 

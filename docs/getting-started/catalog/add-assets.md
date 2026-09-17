@@ -1,16 +1,16 @@
-# Registering Assets in the Community Catalog
+# Registering Assets in the NAFSI Catalog
 
-The Community Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the Wildfire Commons community.
+The NAFSI Catalog is a metadata registry that allows organizations to share their digal assets (datasets, models, data services) with the NAFSI Hub community.
 
 ## When to Register Your Digital Asset
 
 Consider registering your dataset, model, or data service in the following scenarios:
 
-- **When you plan to expose your asset to the broader community** — If your goal is to share a finished dataset, model, or service publicly, registering it in the Community Catalog increases its visibility and makes it easier for others to find, access, and build upon.
+- **When you plan to expose your asset to the broader community** — If your goal is to share a finished dataset, model, or service publicly, registering it in the NAFSI Catalog increases its visibility and makes it easier for others to find, access, and build upon.
 - **Ahead of starting a research project** — Register early in the research lifecycle to establish provenance, make your intended data sources discoverable to collaborators, and support reproducibility.
 - **Ahead of a data challenge** — Register the asset before launching a data challenge so participants have clear, reliable access to the data or resources needed to take part.
 
-**The Community Catalog does not host or store any data or assets**. Instead, contributors are responsible for providing users with access to their resources. This can be done through any of the following mechanisms: a direct access link, documentation, a download URL, an API, or other equivalent methods.
+**The NAFSI Catalog does not host or store any data or assets**. Instead, contributors are responsible for providing users with access to their resources. This can be done through any of the following mechanisms: a direct access link, documentation, a download URL, an API, or other equivalent methods.
 
 ## Before Registering your Dataset
 
@@ -20,7 +20,7 @@ Consider registering your dataset, model, or data service in the following scena
 
 ## Digital Asset Registration Process
 
-1 - Go to your Dashboard. In the left panel, click on *Catalogs*, then select *Registration*.
+1 - Go to your Dashboard. In the left panel, click on *Catalog*, then select *Add to Catalog*.
 
 2 - Click *Register Catalog Entry*.
 
@@ -52,7 +52,7 @@ Unlisted assets do not go through an approval process. As soon as your submissio
 
 After submitting your data registration form, you will receive a confirmation email acknowledging receipt of your submission. 
 
-Our team will carefully review your dataset to ensure it meets the standards and requirements of the Community Catalog. Please be patient as we complete this review process, as it may take some time.
+Our team will carefully review your dataset to ensure it meets the standards and requirements of the NAFSI Catalog. Please be patient as we complete this review process, as it may take some time.
 
 Once the review is complete, you will receive a second email informing you of the outcome, either accepting or rejecting your dataset for inclusion in the catalog. If your dataset is rejected, it is because it did not meet the necessary standards.
 
@@ -61,5 +61,3 @@ If you have any questions or concerns regarding the review process or would like
 ## Updating your approved requests
 
 If you need to update a digital asset after it has been approved, go to *My Approved Requests* and click *Edit* next to the asset you want to edit. 
-
-<img src="../images/update.png" style="border: 2px solid black;">

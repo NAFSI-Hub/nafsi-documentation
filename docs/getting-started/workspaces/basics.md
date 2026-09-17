@@ -1,6 +1,6 @@
 # Workspaces
 
-The Workspace is a collaborative environment designed to support a wide range of projects, including AI and Machine Learning (ML) workflows, exploratory data analysis (EDA), scientific research projects and educational projects. Each workspace operates within JupyterHub and provides integration with data resources from the [Community Catalog](../catalog/basics.md) and external GitHub repositories. 
+The Workspace is a collaborative environment designed to support a wide range of projects, including AI and Machine Learning (ML) workflows, exploratory data analysis (EDA), scientific research projects and educational projects. Each workspace operates within JupyterHub and provides integration with data resources from the [NAFSI Catalog](../catalog/basics.md) and external GitHub repositories. 
 
 ## Use Cases
 
@@ -8,11 +8,9 @@ The Workspace is a collaborative environment designed to support a wide range of
 
 The workspace is the main unit for assembling and delivering complete research workflows by integrating datasets from the data catalog, source code from GitHub, and connections to computing resources. Researchers use workspaces to combine data, code, and computation in a unified environment, enabling streamlined exploration, analysis, and experimentation.
 
-To learn more about the collection of open workspaces and the different ways the community uses them, consult the [*Explore*](https://www.wildfirecommons.org/explore) section of FireForge.
+To learn more about the collection of open workspaces and the different ways the community uses them, consult the [*Explore*](https://nafsihub.org/explore) section of the Research Hub.
 
-Example: [*Points2Pano Workflow*](https://www.wildfirecommons.org/workspaces/bfe13bbe-47d7-4110-b190-67ea2aefa8b4?from=explore)
-
-<img src="../images/explore.png" style="border: 2px solid black;">
+<!--<img src="../images/explore.png" style="border: 2px solid black;">-->
 
 **Data Challenges**
 
@@ -22,15 +20,9 @@ Within a data challenge environment, workspaces function as foundational units t
 
 As part of the learning experience, students and participants are encouraged to develop their own workspaces. 
 
-Example: [Modules from *Data Challenge and Onboarding*](https://www.wildfirecommons.org/educationhub/datachallenge/learner/a42ce5c3-8045-4566-9b48-448bc3d8bfb9?from=explore&subtab=live)
-
 **Community Training**
 
-Research groups and agencies that contribute datasets or services to Wildfire Commons have the opportunity to develop dedicated workspaces designed as demos or tutorials. These workspaces act as practical tools to train the broader community on how to effectively access, process, analyze, and visualize their resources. For example, a workspace might guide users through working with a sample dataset, demonstrating data utilization workflows and showcasing techniques such as live streaming analysis or real-time data visualization, helping users fully leverage the contributed resources in their own work.
-
-<img src="../images/community-training.png" style="border: 2px solid black;">
-
-Example: [*WRI Domain Scores - Fire Perimeters*](https://www.wildfirecommons.org/workspaces/2fa8692b-3442-4b9c-be3c-a1c1d8a44a3e?from=explore)
+Research groups and agencies that contribute datasets or services to the NAFSI Hub have the opportunity to develop dedicated workspaces designed as demos or tutorials. These workspaces act as practical tools to train the broader community on how to effectively access, process, analyze, and visualize their resources. For example, a workspace might guide users through working with a sample dataset, demonstrating data utilization workflows and showcasing techniques such as live streaming analysis or real-time data visualization, helping users fully leverage the contributed resources in their own work.
 
 ## Key Features of the workspace
 
@@ -40,7 +32,7 @@ This form helps users provide all the relevant information about their workspace
 
 **Catalog Assets**
 
-The workspace allows users to easily find and utilize relevant digital assets, such as datasets and models, from the Community Catalog. 
+The workspace allows users to easily find and utilize relevant digital assets, such as datasets and models, from the NAFSI Catalog. 
 
 **Workspace Codebase**
 

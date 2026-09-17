@@ -6,7 +6,14 @@ Reviewing submissions in Data Challenges is done by accessing and reviewing the 
 
 Users with the **Evaluator** or **Admin** role can access participant workspaces directly through the challenge's *Teams* tab. From there, they can open and run the notebooks or code within each workspace to review and score the submitted work in its original environment.
 
-To review a submission
+**To add admins and evaluators:**
+
+1. Make sure your intended users are registered in the NAFSI Hub.
+2. Go to your Education Hub (*Data Challenges → My Data Challenges*) and open your data challenge.
+3. Click *Add members* under the group (Admins or Evaluators) to which you want to add users.
+4. Enter the email addresses of the users you want to add.
+
+**To review a submission:**
 
 1. Open the Data Challenge.
 2. Go to the **Teams** tab.
@@ -17,7 +24,7 @@ To review a submission
 
 **Submissions Are Not Stored Separately**
 
-Wildfire Commons does not currently provide a dedicated storage space to host or archive submissions. Instead, a participant's submission lives in their workspace, and that workspace *is* the submission.
+The NAFSI Hub does not currently provide a dedicated storage space to host or archive submissions. Instead, a participant's submission lives in their workspace, and that workspace *is* the submission.
 
 **Participants Can Download Files for External Submission**
 

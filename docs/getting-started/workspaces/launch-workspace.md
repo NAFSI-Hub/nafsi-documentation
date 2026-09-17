@@ -20,14 +20,14 @@ In the previous tutorial, you set up your first workspace. Now, you'll launch it
 
 Once in JupyterHub, reserve the following resources:
 
-    Region: West
-    Zone: UCSD
+    Region: Any
+    Zone: Any
     GPUs: 0
     Cores: 1
     RAM: 8 GB
     GPU Type: Any
     /dev/shm for pytorch: Do not check
-    Image: Minimal NDP Starter JupyterLab
+    Image: Minimal Starter JupyterLab
     Architecture: amd64
 
 Click on *Start* and wait for your server to start running. 
@@ -44,7 +44,7 @@ If you encounter an error when launching the server:
 
 #### 4. Navigate and Set Up Your Workspace
 
-- On the left panel, locate and click the *WSTC* button go to the Widget.
+- On the left panel, locate and click the *NAFSI* button go to the Widget.
 
 - Click the *Current Folder* window.
 
@@ -52,9 +52,9 @@ If you encounter an error when launching the server:
 
 - Double-click on your User Persistent Storage to work in a folder with permanent storage (10GB limit).
 
-- Return to the Widget by clicking the *WSTC* button on the left panel.
+- Return to the Widget by clicking the *NAFSI* button on the left panel.
 
-<img src="../images/wstc-button.png" style="border: 2px solid black;">
+<img src="../images/nafsi-button.png" style="border: 2px solid black;">
 
 
 - Open the *Select Workspace* dropdown and choose *Demo Workspace*.

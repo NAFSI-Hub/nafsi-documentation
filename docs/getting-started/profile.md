@@ -1,17 +1,17 @@
-# Expert Network Profile
+# Updating your profile
 
-After a successful sign in, fill out your Expert Network Profile.
+Creating a profile helps the community identify your work more clearly when assets are made public. Additionally, when people visit your profile, they can discover open resources you've published, such as workspaces, digital assets, projects or data challenges.
 
-![type:video](https://www.youtube-nocookie.com/embed/6LUPPys9Ohg)
+1 - Once logged in, click your initials in the top right corner, then select *Profile*.
 
+<img src="../images/profile-select.png" style="border: 2px solid black;">
 
-1 - On the main page, click on *Home* followed by *Profile*.
+2 - You'll see a preliminary view of your profile, with your name and general info displayed first, followed by your contributions to the NAFSI Hub. To start editing your general information, click the pencil/notepad icon on the right.
 
-2 - Fill out the details of your profile including the *expertise* field in which you can select existing listed expertise or type in your own expertise. To add a new expertise type, click *enter* on your keyboard to add the new types.
+<img src="../images/edit-profile.png" style="border: 2px solid black;">
 
-<img src="../images/profile.png" style="border: 2px solid black;">
+3 - Edit your display name, expertise, and bio. You can also add links to your professional profiles at the bottom, including LinkedIn, Google Scholar, ORCID, Semantic Scholar, or any professional website. Click *Save Profile* to save your changes.
 
-3 - Once you have established your Expert Network profile, click Save and navigate to the Catalog or FireForge to begin using the Wildfire Commons. 
+<img src="../images/profiles.png" style="border: 2px solid black;">
 
-!!! info 
-    By joining the Wildfire Commons you agree to the [Community Code of Conduct](https://www.wildfirecommons.org/get-involved/code-of-conduct). 
+4 - To add a profile picture, click the edit button on the circle to the left of your name. To add your current professional roles, click *Add role*. To add organizational affiliations, click *My Organizations*.

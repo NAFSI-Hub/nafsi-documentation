@@ -13,8 +13,8 @@ Whenever possible, prioritize using your institution's identity provider, as thi
 
 ### What happens if I choose ORCID or Google as my Identity Provider?
 
-- If you select **ORCID**, you'll get access to computing resources in addition to standard Wildfire Commons features.
-- If you select **Google**, you'll get access to most Wildfire Commons features, but **not** computing resources.
+- If you select **ORCID**, you'll get access to computing resources in addition to standard NAFSI Hub features.
+- If you select **Google**, you'll get access to most NAFSI Hub features, but **not** computing resources.
 
 ### I selected ORCID as my provider, but later logged in with my institution using the same email — now I can't log in. What happened?
 

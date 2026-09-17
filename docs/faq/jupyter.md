@@ -4,11 +4,11 @@ This page addresses some common questions about using the JupyterHub service.
 
 ### How do I bring in my Git repository?
 
-The Wildfire Commons extension, available when launching your server, is the most seamless approach. Select your workspace, then the repository, and click *Clone Repository*. Note that if the repository is private, you'll be asked to provide a Git token.
+The NAFSI extension, available when launching your server, is the most seamless approach. Select your workspace, then the repository, and click *Clone Repository*. Note that if the repository is private, you'll be asked to provide a Git token.
 
 ### How do I bring in my digital assets?
 
-If the digital asset has a direct download URL, the Wildfire Commons extension is the most seamless approach. Select the resource you want to download, then click *Download Files to Current Folder*. If the asset does not have a direct download URL, you'll need to bring in the resource programmatically or upload it directly to the server using the *Upload File* button.
+If the digital asset has a direct download URL, the NAFSI extension is the most seamless approach. Select the resource you want to download, then click *Download Files to Current Folder*. If the asset does not have a direct download URL, you'll need to bring in the resource programmatically or upload it directly to the server using the *Upload File* button.
 
 ### How long does persistent storage last?
 

@@ -1,6 +1,6 @@
-# Community Catalog 
+# NAFSI Catalog 
 
-The Community Catalog is built through collaboration with organizations and researchers worldwide, who contribute digital assets (including datasets, models, and data services) for open discovery.
+The NAFSI Catalog is built through collaboration with organizations and researchers worldwide, who contribute digital assets (including datasets, models, and data services) for open discovery.
 
 <img src="../images/catalog.png" style="border: 2px solid black;">
 
@@ -8,7 +8,7 @@ Each asset may consist of one or more resources, such as primary files, document
 
 <img src="../images/resources.png" style="border: 2px solid black;">
 
-It is important to note that the **Community Catalog is a metadata catalog, not a data repository. Wildfire Commons does not store any data**. All assets are hosted by their respective contributors, who are responsible for keeping them accurate and up to date.
+It is important to note that the **NAFSI Catalog is a metadata catalog, not a data repository. The NAFSI Hub does not store any data**. All assets are hosted by their respective contributors, who are responsible for keeping them accurate and up to date.
 
 To start exploring the catalog and learn what types of resources are available, [see the next page](./search.md).
 

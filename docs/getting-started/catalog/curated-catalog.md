@@ -1,6 +1,6 @@
 # Curated Catalogs
 
-Wildfire Commons users can create curated catalogs to collect and organize multiple resources (such as datasets, services, and models) that are relevant to a specific project, domain, or organization. These curated instances make it easier to discover and access related resources.
+NAFSI Hub users can create curated catalogs to collect and organize multiple resources (such as datasets, services, and models) that are relevant to a specific project, domain, or organization. These curated instances make it easier to discover and access related resources.
 
 ## Use Cases
 
@@ -10,7 +10,7 @@ Add curated catalogs to your user profile to showcase the resources you use in s
 
 **Organization Highlight**
 
-Organizations can create curated catalogs to highlight the resources they have contributed to Wildifire Commons, helping users explore and engage with their offerings more easily.
+Organizations can create curated catalogs to highlight the resources they have contributed to the NAFSI Hub, helping users explore and engage with their offerings more easily.
 
 **CollabStudio**
 
@@ -18,7 +18,7 @@ Curated catalogs can be embedded in a CollabStudio or Data Challenge, providing 
 
 ## Create your curated catalog
 
-1 - Go to your Hub in FireForge and click on *New Curated Catalog*
+1 - Go to your Research Hub and click on *New Curated Catalog*
 
 <img src="../images/new-cc.png" style="border: 2px solid black;">
 
@@ -33,7 +33,7 @@ Curated catalogs can be embedded in a CollabStudio or Data Challenge, providing 
 
 Once you fill out the form, click on *Submit*.
 
-3 - Go to the Community Catalog and search for the resources to add to your curated catalog. 
+3 - Go to the NAFSI Catalog and search for the resources to add to your curated catalog. 
 
 4 - Click on add *Add to Catalog*. Select the curated catalog to which you want to add the resource.
 

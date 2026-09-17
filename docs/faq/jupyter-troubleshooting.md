@@ -20,7 +20,7 @@ Sometimes, when new files are added to a path, the kernel may not detect them, l
 
 ### I clicked "Start Server" multiple times and my Jupyter session doesn't seem to launch
 
-Wildfire Commons' main JupyterHub is hosted by the National Research Platform. As a shared research cluster, it operates on a first-come, first-served basis. If your session isn't launching, one of the following may be happening:
+NAFSI Hub's main JupyterHub is hosted by the National Research Platform. As a shared research cluster, it operates on a first-come, first-served basis. If your session isn't launching, one of the following may be happening:
 
 - The cluster is undergoing maintenance.
 - There are no nodes currently available to fulfill your request.
@@ -46,8 +46,7 @@ If you have an active server running:
 
 <img src="../images/jhub-logout.png">
 
-**NOTE:** You must log out and log in within JupyterHub, not the main Wildfire Commons site. If you go to the main Wildfire Commons site to log out and
-log in again, your JupyterHub access token will not be reset. 
+**NOTE:** You must log out and log in within JupyterHub, not the main NAFSI Hub site. If you go to the main NAFSI Hub site to log out and log in again, your JupyterHub access token will not be reset. 
 
 !!! tip
     Avoid running processes that may take more than 24 hours to complete. If extended processing time is unavoidable, consider implementing checkpoints to save your progress periodically. Keep in mind that if you start a long-running process and your access token expires during execution, the kernel will terminate, resulting in the loss of any unsaved progress.

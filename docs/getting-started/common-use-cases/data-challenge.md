@@ -4,11 +4,11 @@ Participating in a Data Challenges is an excellent opportunity to collaborate on
 
 ## Joining a Data Challenge
 
-1. **Log in to Wildfire Commons:** Make sure you have an active account and the necessary credentials to access the platform. If you haven't registered with Wildfire Commons yet, follow [these instructions](../registration.md).
-2. **Explore Challenges:** Navigate to the *Data Challenges* and select [Explore](https://www.wildfirecommons.org/educationhub/explore). Challenges are listed according to their publication dates.
+1. **Log in to the NAFSI Hub:** Make sure you have an active account and the necessary credentials to access the platform. If you haven't registered with the NAFSI Hub yet, follow [these instructions](../registration.md).
+2. **Explore Challenges:** Navigate to the *Data Challenges* and select [Explore](https://nafsihub.org/educationhub/explore). Challenges are listed according to their publication dates.
 3. **Select a Challenge:** Once you find a challenge that interests you, click *View More* to view its details.
 
-<img src="../images/challenges.png" style="border: 2px solid black;">
+<!--<img src="../images/challenges.png" style="border: 2px solid black;">-->
 
 4. **Review Information:** Carefully read all the details and instructions before joining a challenge. 
 
@@ -18,11 +18,11 @@ Choose one of 3 options:
 
 - **I am working solo**: Enter a name for your solo team and click *Register for this challenge*.
 
-<img src="../images/solo-team.png" style="border: 2px solid black;">
+<!--<img src="../images/solo-team.png" style="border: 2px solid black;">-->
 
-- **I am creating a new team** Enter a team name and add the email addresses of your team members. All members must be registered on Wildfire Commons before they can be added to a team (unregistered emails will result in an error). You can edit the team member list at any time.
+- **I am creating a new team** Enter a team name and add the email addresses of your team members. All members must be registered on the NAFSI Hub before they can be added to a team (unregistered emails will result in an error). You can edit the team member list at any time.
 
-<img src="../images/team.png" style="border: 2px solid black;">
+<!--<img src="../images/team.png" style="border: 2px solid black;">-->
 
 - **I want to join an existing team**: Contact an active team and ask them to add you.
 

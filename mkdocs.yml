@@ -1,10 +1,9 @@
-site_name: Wildfire Commons Documentation
-site_url: https://documentation.wildfirecommons.org/documentation
+site_name: NAFSI Hub Documentation
+site_url: https://nafsihub.org/documentation
 
 nav:
-  # - Home: index.md
+  - Home: index.md
   - Getting Started:
-      - Overview of features: getting-started/overview-of-features.md
       - Creating an account: getting-started/registration.md
       - Updating your profile: getting-started/profile.md
       - Common Use Cases:
@@ -15,16 +14,13 @@ nav:
           - "How to search catalog": getting-started/catalog/search.md
           - "How to add assets to catalog": getting-started/catalog/add-assets.md
           - "How to compile a collection of assets": getting-started/catalog/curated-catalog.md
-          - "Marketplace": getting-started/catalog/marketplace.md
       - Workspaces:
           - "Basics and examples": getting-started/workspaces/basics.md
           - "How to create a workspace": getting-started/workspaces/create-workspace.md
           - "How to launch a workspace": getting-started/workspaces/launch-workspace.md
           - "How to share a workspace": getting-started/workspaces/share-workspace-collabstudio.md
-          - "Launch with R Studio": getting-started/workspaces/launch-r-studio.md
+          #- "Launch with R Studio": getting-started/workspaces/launch-r-studio.md
           - "Launch with your own Jupyter image": getting-started/workspaces/use-custom-image.md
-      - Pathfinders: 
-          - "Pathfinders": getting-started/pathfinders/index.md
       - Policies and Guidelines:
           - Terms of Use: policies/terms-of-use.md
           - Privacy Policy: policies/privacy-policy.md
@@ -48,7 +44,6 @@ nav:
       - Workspaces: faq/workspaces.md
       - Jupyter basics: faq/jupyter.md
       - Jupyter troubleshooting: faq/jupyter-troubleshooting.md
-      - Community Questions: faq/community-questions.md
       #- (Education Hub) Classrooms: faq/education-hub-classroom.md
       #- (Education Hub) Data challenges: faq/education-hub-data-challenge.md
       # - Docker: faq/docker.md
@@ -61,8 +56,8 @@ theme:
     text: Inter
     code: Roboto Mono
   # logo: images/logos/ndp-logo.png
-  logo: images/logos/wstc-logo.png
-  favicon: images/logos/wstc-logo.png
+  logo: images/logos/nafsi-logo.png
+  favicon: images/logos/nafsi-favicon.png
   features:
     # - content.action.edit
     # - content.action.view
@@ -113,12 +108,12 @@ theme:
   #     minify_html: true
 
 extra:
-  homepage: https://www.wildfirecommons.org/
+  homepage: https://nafsihub.org/
   social:
-    - icon: fontawesome/brands/bluesky
-      link: https://bsky.app/profile/wildfirecommons.bsky.social
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@Nat.Food.Security.Innovation
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/groups/14463867/
+      link: https://www.linkedin.com/company/nafsihub/posts/?feedView=all
 
 extra_css:
   - stylesheets/extra.css

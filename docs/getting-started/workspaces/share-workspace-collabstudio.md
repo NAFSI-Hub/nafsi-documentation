@@ -22,7 +22,7 @@ Each group is allocated 5 GB of shared storage on our main JupyterHub service to
 
    <img src="../images/project-group.png" style="border: 2px solid black;">
 
-7 - Enter the email addresses of the group members. Make sure your collaborators are already registered in Wildfire Commons, or you'll get an error message.
+7 - Enter the email addresses of the group members. Make sure your collaborators are already registered in the NAFSI Hub, or you'll get an error message.
 
 8 - Click *Add Group* to save it. You can edit group membership later if needed, and you can add multiple groups to the same CollabStudio.
 
