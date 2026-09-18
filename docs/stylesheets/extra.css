@@ -35,7 +35,7 @@
 
 /* accent color */
 [data-md-color-scheme="ndp-light"] {
-  --md-accent-fg-color: #2eab30 !important;
+  --md-accent-fg-color: #47A555 !important;
 }
 
 /* DARK THEME */
@@ -48,7 +48,7 @@
 }
 
 [data-md-color-scheme="slate"] {
-  --md-accent-fg-color: #2eab30  !important;
+  --md-accent-fg-color: #47A555  !important;
 }
 
 [data-md-color-scheme="slate"] h2, h3 {
@@ -97,13 +97,13 @@ h1 {
 
 h2 {
     /* color: #2b6cb0; */
-    color: #2eab30;
+    color: #47A555;
     font-weight: 600 !important;
     /* padding-bottom: 8px; */
 }
 
 h3 {
-    color: #2eab30 !important;
+    color: #47A555 !important;
     font-weight: 600 !important;
 }
 
